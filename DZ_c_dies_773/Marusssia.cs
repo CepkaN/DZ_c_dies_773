@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DZ_c_dies_773
+{
+    public class Marusssia: Automobile
+    {
+        public Marusssia() {
+            Nome = " Marussia "; Velocita = 0;Corso = 0; Pobeda = false;
+        }
+    }
+}
